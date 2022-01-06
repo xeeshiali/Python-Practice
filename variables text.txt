@@ -1,0 +1,3 @@
+variable is a placeholder where we can store values. & can be changed easily whenever needed.
+
+In Python we don't need to write the type of variable rather the value of variable decides the type of variable.
