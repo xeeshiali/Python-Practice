@@ -1,0 +1,24 @@
+GIT (Distributive Version Control System)
+
+1) Goto git-scm.com to Download git
+2) Make directory / folder and put all your files there
+3) Right click and open git bash
+4) To make folder as repo use command:
+	git init
+5) To check status of all files and folders use:
+	git status
+6) To stage all files and folders use:
+	git add -A
+7) To configure your git use commands:
+	i) git config --global user.name "Muhammad Ali Mughal"
+	ii git config --global user.email "abc@xyz.com"
+8) To store data use:
+	git commit -m "<Your message>"
+
+9) Goto github.com and signup
+10) Make repo on remote using add button on top right
+11) Goto git bash agin and connect your local repo with remote
+	git remote add origin <Remote repo link>
+12) Push your code from local to remote
+	GIT PUSH -U ORIGIN MASTER
+13) Signup with code or Signup with browser
